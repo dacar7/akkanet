@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Akka.Actor;
+using BaseActores.Entidades;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -26,7 +27,9 @@ namespace BaseActores
         {
             services.AddMvc();
             services.AddSingleton<ActorSystem>(_ => ActorSystem.Create("entidadservice"));
-            
+            services.AddEntidadServices();
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

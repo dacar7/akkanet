@@ -13026,11 +13026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\AngularNet\\BaseActores\\BaseActores\\BaseActores\\BaseActores.csproj",
+      "projectUniqueName": "F:\\AngularNet\\BaseAkka\\BaseActores\\BaseActores.csproj",
       "projectName": "BaseActores",
-      "projectPath": "F:\\AngularNet\\BaseActores\\BaseActores\\BaseActores\\BaseActores.csproj",
+      "projectPath": "F:\\AngularNet\\BaseAkka\\BaseActores\\BaseActores.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "F:\\AngularNet\\BaseActores\\BaseActores\\BaseActores\\obj\\",
+      "outputPath": "F:\\AngularNet\\BaseAkka\\BaseActores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

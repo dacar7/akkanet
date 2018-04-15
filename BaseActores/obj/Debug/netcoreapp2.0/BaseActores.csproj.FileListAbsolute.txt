@@ -9,3 +9,14 @@ F:\AngularNet\BaseActores\BaseActores\BaseActores\obj\Debug\netcoreapp2.0\BaseAc
 F:\AngularNet\BaseActores\BaseActores\BaseActores\bin\Debug\netcoreapp2.0\BaseActores.pdb
 F:\AngularNet\BaseActores\BaseActores\BaseActores\obj\Debug\netcoreapp2.0\BaseActores.dll
 F:\AngularNet\BaseActores\BaseActores\BaseActores\obj\Debug\netcoreapp2.0\BaseActores.pdb
+F:\AngularNet\BaseAkka\BaseActores\bin\Debug\netcoreapp2.0\BaseActores.deps.json
+F:\AngularNet\BaseAkka\BaseActores\bin\Debug\netcoreapp2.0\BaseActores.runtimeconfig.json
+F:\AngularNet\BaseAkka\BaseActores\bin\Debug\netcoreapp2.0\BaseActores.runtimeconfig.dev.json
+F:\AngularNet\BaseAkka\BaseActores\bin\Debug\netcoreapp2.0\BaseActores.dll
+F:\AngularNet\BaseAkka\BaseActores\bin\Debug\netcoreapp2.0\BaseActores.pdb
+F:\AngularNet\BaseAkka\BaseActores\obj\Debug\netcoreapp2.0\BaseActores.csprojResolveAssemblyReference.cache
+F:\AngularNet\BaseAkka\BaseActores\obj\Debug\netcoreapp2.0\BaseActores.csproj.CoreCompileInputs.cache
+F:\AngularNet\BaseAkka\BaseActores\obj\Debug\netcoreapp2.0\BaseActores.AssemblyInfoInputs.cache
+F:\AngularNet\BaseAkka\BaseActores\obj\Debug\netcoreapp2.0\BaseActores.AssemblyInfo.cs
+F:\AngularNet\BaseAkka\BaseActores\obj\Debug\netcoreapp2.0\BaseActores.dll
+F:\AngularNet\BaseAkka\BaseActores\obj\Debug\netcoreapp2.0\BaseActores.pdb
